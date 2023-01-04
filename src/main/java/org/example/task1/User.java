@@ -2,9 +2,7 @@ package org.example.task1;
 
 import lombok.Builder;
 
-public enum Gender {
-    MALE, FEMALE
-}
+
 
 @Builder
 public class User {
